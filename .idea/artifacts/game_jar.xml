@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/game_jar</output-path>
+    <root id="archive" name="game.jar">
+      <element id="module-output" name="game" />
+      <element id="extracted-dir" path="$javafx$/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$javafx$/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
